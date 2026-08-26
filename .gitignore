@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+runs/
+predictions/
+artifacts/*
+!artifacts/README.md
+*.pth
+*.pt
+*.tif
+*.tiff
+*.npy
+.DS_Store
